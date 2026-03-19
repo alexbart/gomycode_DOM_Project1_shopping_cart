@@ -1,8 +1,8 @@
-🛒 Shopping Cart App
+# Shopping Cart App
 
 A dynamic shopping cart built using HTML, Tailwind CSS, and JavaScript DOM events. Users can manage items and see the total price update in real-time.
 
-🚀 Features
+# Features
 
 Adjust item quantity with + and - buttons
 
@@ -14,7 +14,7 @@ Real-time total price calculation
 
 Responsive design using Tailwind CSS
 
-🛠️ Technologies Used
+# Technologies Used
 
 HTML5
 
@@ -39,7 +39,7 @@ cd shopping-cart-app
 
 Open index.html in your browser.
 
-🎯 How It Works
+# How It Works
 
 + and - buttons adjust the quantity of each item
 
@@ -49,7 +49,7 @@ Clicking the heart icon toggles the like state (Tailwind color class)
 
 Total price updates automatically based on quantity and deletions
 
-📌 Future Improvements
+# Future Improvements
 
 Add localStorage to save cart state
 
